@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: aa22e67aabc2ef24594b66d393a6ce05
+timeCreated: 1522255890
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - blueEnemy: {instanceID: 0}
+  - redEnemy: {instanceID: 0}
+  - BlueSpawnPoint: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
